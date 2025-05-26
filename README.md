@@ -27,16 +27,8 @@ You pilot a paraglider across a procedurally generated fractal sky, balancing yo
     🎮 Lightweight and web-based—just click to play
 
 🎮 Gameplay
-Use the arrow keys or WASD to gently glide left, right, up, and down. The goal is to maintain your flight path through visually chaotic skies—don’t get overwhelmed by the beauty!
-
-| Tile Type  | Effect                                   |
-| ---------- | ---------------------------------------- |
-| 🟩 Healthy | Heals health or restores food            |
-| 🟫 Neutral | No benefit or penalty — just wasted time |
-| 🟥 Trap    | Harms or kills you instantly             |
-
-Goal: Survive the dungeon and reach the end before your health or food runs out.
-Move with care — you won't know the tile type until you step on it!
+Use the arrow keys or WASD to gently glide left, right, up, and down.
+The goal is to maintain your flight path through visually chaotic skies—don’t get overwhelmed by the beauty!
 
 ### Controls:
 
@@ -70,7 +62,7 @@ Move with care — you won't know the tile type until you step on it!
     
 🖼️ Screenshots / Visuals
 
-![tileddungeon_banner](https://github.com/user-attachments/assets/a917df8a-7dde-4533-8437-6e1dafae908f)
+![fractal_flight_banner](https://github.com/user-attachments/assets/1f536e8e-76d1-4cd8-a9d3-d61eeac10365)
 
 🧰 Technologies Used
 
